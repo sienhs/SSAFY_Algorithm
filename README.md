@@ -14,9 +14,11 @@
 📦 cote
  ┣ 📂 boj
  ┃ ┣ 📂 DFS_BFS
+ ┃ ┃ ┣ 📂 _01_BFS
  ┃ ┃ ┗ 📂 백트레킹
  ┃ ┣ 📂 DP
  ┃ ┣ 📂 MST
+ ┃ ┣ 📂 다익스트라
  ┃ ┣ 📂 그리디
  ┃ ┣ 📂 누적합
  ┃ ┣ 📂 문자열_정규표현식
@@ -65,7 +67,7 @@
 | Gold 3 | [4179 - 불!](https://www.acmicpc.net/problem/4179) | [풀이](boj/DFS_BFS/G3_4179.java) |
 | Gold 4 | [14502 - 연구소](https://www.acmicpc.net/problem/14502) | [풀이](boj/DFS_BFS/G4_14502.java) |
 | Gold 4 | [16234 - 인구 이동](https://www.acmicpc.net/problem/16234) | [풀이](boj/DFS_BFS/G4_16234.java) |
-| Gold 4 | [2665 - 미로만들기](https://www.acmicpc.net/problem/2665) | [풀이](boj/DFS_BFS/G4_2665.java) |
+| Gold 4 | [2665 - 미로만들기](https://www.acmicpc.net/problem/2665) | [풀이](boj/DFS_BFS/_01_BFS/G4_2665.java) |
 | Gold 5 | [16928 - 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | [풀이](boj/DFS_BFS/G5_16928.java) |
 | Gold 5 | [7569 - 토마토](https://www.acmicpc.net/problem/7569) | [풀이](boj/DFS_BFS/G5_7569.java) |
 | Gold 5 | [7576 - 토마토](https://www.acmicpc.net/problem/7576) | [풀이](boj/DFS_BFS/G5_7576.java) |
@@ -74,6 +76,13 @@
 | Silver 1 | [2667 - 단지번호붙이기](https://www.acmicpc.net/problem/2667) | [풀이](boj/DFS_BFS/S1_2667.java) |
 | Silver 3 | [2606 - 바이러스](https://www.acmicpc.net/problem/2606) | [풀이](boj/DFS_BFS/S3_2606.java) |
 | Silver 5 | [1260 - DFS와 BFS](https://www.acmicpc.net/problem/1260) | [풀이](boj/DFS_BFS/S5_1260.java) |
+
+#### 01 BFS
+
+| 난이도 | 문제번호 | 풀이 |
+|--------|----------|------|
+| Gold 4 | [1261 - 알고스팟](https://www.acmicpc.net/problem/1261) | [풀이](boj/DFS_BFS/_01_BFS/G4_1261.java) |
+| Gold 4 | [2665 - 미로만들기](https://www.acmicpc.net/problem/2665) | [풀이](boj/DFS_BFS/_01_BFS/G4_2665.java) |
 
 #### 백트래킹
 
@@ -94,7 +103,7 @@
 
 | 난이도 | 문제번호 | 풀이 |
 |--------|----------|------|
-| Gold 4 | [1197 - 최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | [풀이](boj/MST/G4_1197.java) |
+| Gold 4 | [1197 - 최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | [풀이](boj/MST/G4_1197_FAIL.java) |
 
 #### 그리디
 
@@ -123,6 +132,7 @@
 | 난이도 | 문제번호 | 풀이 |
 |--------|----------|------|
 | Gold 1 | [12100 - 2048(Easy)](https://www.acmicpc.net/problem/12100) | [풀이](boj/완전탐색/G1_12100.java) |
+| Gold 4 | [14500 - 테트로미노](https://www.acmicpc.net/problem/14500) | [풀이](boj/완전탐색/G4_14500_OTHER.java) |
 
 #### 위상정렬
 
@@ -153,6 +163,14 @@
 | Silver 4 | [1620 - 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [풀이](boj/집합과맵/S4_1620.java) |
 | Silver 5 | [10815 - 숫자 카드](https://www.acmicpc.net/problem/10815) | [풀이](boj/집합과맵/S5_10815.java) |
 | Silver 5 | [11723 - 집합](https://www.acmicpc.net/problem/11723) | [풀이](boj/집합과맵/S5_11723.java) |
+
+#### 다익스트라
+
+| 난이도 | 문제번호 | 풀이 |
+|--------|----------|------|
+| Gold 3 | [1238 - 파티](https://www.acmicpc.net/problem/1238) | [풀이](boj/다익스트라/G3_1238.java) |
+| Gold 4 | [1753 - 최단경로](https://www.acmicpc.net/problem/1753) | [풀이](boj/다익스트라/G4_1753.java) |
+| Gold 5 | [1916 - 최소비용 구하기](https://www.acmicpc.net/problem/1916) | [풀이](boj/다익스트라/G5_1916.java) |
 
 #### 기타
 
@@ -190,6 +208,6 @@
 
 | 플랫폼 | 풀이 수 |
 |--------|---------|
-| BOJ    | 43문제  |
+| BOJ    | 48문제  |
 | SWEA   | 14문제  |
-| **합계** | **57문제** |
+| **합계** | **62문제** |
