@@ -1,8 +1,8 @@
-package boj;
+package boj.다익스트라;
 
 import java.util.*;
 import java.io.*;
-public class Main {
+public class G3_1238 {
 	static int V, E, Middle;
 	static final int INF = Integer.MAX_VALUE;
 	static List<int[]>[] graph;
