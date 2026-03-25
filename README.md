@@ -169,8 +169,11 @@
 | 난이도 | 문제번호 | 풀이 |
 |--------|----------|------|
 | Gold 3 | [1238 - 파티](https://www.acmicpc.net/problem/1238) | [풀이](boj/다익스트라/G3_1238.java) |
+| Gold 3 | [1939 - 중량제한](https://www.acmicpc.net/problem/1939) | [풀이](boj/다익스트라/G3_1939.java) |
+| Gold 4 | [1504 - 특정한 최단 경로](https://www.acmicpc.net/problem/1504) | [풀이](boj/다익스트라/G4_1504.java) |
 | Gold 4 | [1753 - 최단경로](https://www.acmicpc.net/problem/1753) | [풀이](boj/다익스트라/G4_1753.java) |
 | Gold 5 | [1916 - 최소비용 구하기](https://www.acmicpc.net/problem/1916) | [풀이](boj/다익스트라/G5_1916.java) |
+| Gold 5 | [5972 - 택배 배송](https://www.acmicpc.net/problem/5972) | [풀이](boj/다익스트라/G5_5972.java) |
 
 #### 기타
 
@@ -208,6 +211,6 @@
 
 | 플랫폼 | 풀이 수 |
 |--------|---------|
-| BOJ    | 48문제  |
+| BOJ    | 51문제  |
 | SWEA   | 14문제  |
-| **합계** | **62문제** |
+| **합계** | **65문제** |
