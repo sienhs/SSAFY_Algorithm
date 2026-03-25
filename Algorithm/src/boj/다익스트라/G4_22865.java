@@ -1,9 +1,9 @@
-package boj;
+package boj.다익스트라;
 import java.util.*;
 import java.util.stream.IntStream;
 import java.io.*;
 
-public class Main {
+public class G4_22865 {
     static List<int[]>[] graph;
     static int N, E;
     static List<Integer> saleHouses;
@@ -41,7 +41,6 @@ public class Main {
         }
         
         
-        
         int[] dist1 = dijkstra(f1);
         int[] dist2 = dijkstra(f2);
         int[] dist3 = dijkstra(f3);
@@ -56,55 +55,8 @@ public class Main {
         	}
         }
         System.out.println(result);
-//        List<int[]> mins = new ArrayList<>();
-//        for(int[] d : dists) {
-//        	int innerSale = 0;
-//        	int innerMin = INF;
-//        	
-//        	for(int sale : saleHouses) {
-//        		if(d[sale] < innerMin) {
-//        			innerSale = sale;
-//        			innerMin = d[sale];
-//        		}
-//        	}
-//        	mins.add(new int[] {innerMin, innerSale});
-//        }
-//        int outerSale = 0;
-//        int outerMax = 0;
-//        for(int[] o : mins) {
-//        	if(o[0] > outerMax) {
-//        		outerMax = o[0];
-//        		outerSale = o[1];
-//        	}
-//        }
-//        System.out.println(outerSale);
-        
-//        List<int[]> select = new ArrayList<>();
-//        for(int sale : saleHouses) {
-//        	int min = INF;
-//        	int buy = 0;
-//        	for(int friendHouse : friendHouses) {
-//        		int ret = dijkstra(sale, friendHouse);
-////        		System.out.println("후보 : " +sale+" 거리 : "+ret);
-//        		if(ret < min) {
-//        			min = ret;
-//        			buy = sale;
-//        		}
-//        	}
-//        	select.add(new int[] {buy, min});
-//        }
-//        int result = 0;
-//        int M = 0;
-//        
-//        for(int[] s : select) {
-////        	System.out.println(Arrays.toString(s));
-//        	if(s[1] > M) {
-//        		M = s[1];
-//        		result = s[0];
-//        	}
-//        }
-//        System.out.println(result);
     }
+
     static final int INF = Integer.MAX_VALUE;
     public static int[] dijkstra(int start) {
     	int[] dist = new int[N+1];
@@ -127,7 +79,7 @@ public class Main {
     			}
     		}
     	}
-//    	System.out.println(Arrays.toString(dist));
+
     	return dist;
     	
     }
