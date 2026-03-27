@@ -103,7 +103,10 @@
 
 | 난이도 | 문제번호 | 풀이 |
 |--------|----------|------|
-| Gold 4 | [1197 - 최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/MST/G4_1197_FAIL.java) |
+| Gold 4 | [1197 - 최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/MST/G4_1197.java) |
+| Gold 4 | [1647 - 도시 분할 계획](https://www.acmicpc.net/problem/1647) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/MST/G4_1647.java) |
+| Gold 4 | [1922 - 네트워크 연결](https://www.acmicpc.net/problem/1922) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/MST/G4_1922.java) |
+| Gold 4 | [6497 - 전력난](https://www.acmicpc.net/problem/6497) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/MST/G4_6497.java) |
 
 #### 그리디
 
@@ -162,6 +165,7 @@
 |--------|----------|------|
 | Silver 4 | [1620 - 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/집합과맵/S4_1620.java) |
 | Silver 5 | [10815 - 숫자 카드](https://www.acmicpc.net/problem/10815) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/집합과맵/S5_10815.java) |
+| Gold 4 | [7662 - 이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/집합과맵/G4_7662.java) |
 | Silver 5 | [11723 - 집합](https://www.acmicpc.net/problem/11723) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/집합과맵/S5_11723.java) |
 
 #### 다익스트라
@@ -212,6 +216,6 @@
 
 | 플랫폼 | 풀이 수 |
 |--------|---------|
-| BOJ    | 52문제  |
+| BOJ    | 56문제  |
 | SWEA   | 14문제  |
-| **합계** | **66문제** |
+| **합계** | **70문제** |
