@@ -1,9 +1,9 @@
-package boj;
+package boj.MST;
 import java.util.*;
 import java.util.stream.IntStream;
 import java.io.*;
 
-public class Main {
+public class G4_6497 {
 	static int V, E;
 	static List<long[]>[] graph;
 
