@@ -6,8 +6,10 @@ import java.io.*;
 public class Main {
 	static int V, E;
 	static List<long[]>[] graph;
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
         StringTokenizer st = new StringTokenizer(br.readLine());
         V = Integer.parseInt(st.nextToken());
         E = Integer.parseInt(st.nextToken());
@@ -22,7 +24,6 @@ public class Main {
         	
         	graph[v].add(new long[] {e, c});
         }
-        
         
     }
 }
