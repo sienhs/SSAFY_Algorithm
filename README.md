@@ -19,6 +19,7 @@
  ┃ ┣ 📂 DP
  ┃ ┣ 📂 MST
  ┃ ┣ 📂 다익스트라
+ ┃ ┣ 📂 플로이드워셜
  ┃ ┣ 📂 그리디
  ┃ ┣ 📂 누적합
  ┃ ┣ 📂 문자열_정규표현식
@@ -75,6 +76,7 @@
 | Silver 1 | [2178 - 미로 탐색](https://www.acmicpc.net/problem/2178) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/DFS_BFS/S1_2178.java) |
 | Silver 1 | [2667 - 단지번호붙이기](https://www.acmicpc.net/problem/2667) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/DFS_BFS/S1_2667.java) |
 | Silver 3 | [2606 - 바이러스](https://www.acmicpc.net/problem/2606) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/DFS_BFS/S3_2606.java) |
+| Silver 1 | [14940 - 쉬운 최단거리](https://www.acmicpc.net/problem/14940) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/DFS_BFS/S1_14940.java) |
 | Silver 5 | [1260 - DFS와 BFS](https://www.acmicpc.net/problem/1260) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/DFS_BFS/S5_1260.java) |
 
 #### 01 BFS
@@ -180,6 +182,14 @@
 | Gold 5 | [1916 - 최소비용 구하기](https://www.acmicpc.net/problem/1916) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/다익스트라/G5_1916.java) |
 | Gold 5 | [5972 - 택배 배송](https://www.acmicpc.net/problem/5972) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/다익스트라/G5_5972.java) |
 
+#### 플로이드 워셜
+
+| 난이도 | 문제번호 | 풀이 |
+|--------|----------|------|
+| Gold 4 | [1956 - 운동](https://www.acmicpc.net/problem/1956) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/플로이드워셜/G4_1956.java) |
+| Gold 4 | [2219 - 보안 검사](https://www.acmicpc.net/problem/2219) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/플로이드워셜/G4_2219.java) |
+| Gold 4 | [11404 - 버스](https://www.acmicpc.net/problem/11404) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/플로이드워셜/G4_11404.java) |
+
 #### 기타
 
 | 난이도 | 문제번호 | 풀이 |
@@ -216,6 +226,6 @@
 
 | 플랫폼 | 풀이 수 |
 |--------|---------|
-| BOJ    | 56문제  |
+| BOJ    | 60문제  |
 | SWEA   | 14문제  |
-| **합계** | **70문제** |
+| **합계** | **74문제** |
