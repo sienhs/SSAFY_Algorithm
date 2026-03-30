@@ -1,9 +1,9 @@
-package boj;
+package boj.플로이드워셜;
 
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class S1_11403 {
 	static int N, M;
 	static boolean[][] dist;
 	
