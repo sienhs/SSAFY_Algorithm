@@ -1,9 +1,9 @@
-package boj;
+package boj.플로이드워셜;
 import java.util.*;
 import java.util.stream.IntStream;
 import java.io.*;
 
-public class Main {
+public class G4_2219 {
 	static int N, M;
 	static int[][] dist;
 	static final int INF = Integer.MAX_VALUE / 2;
