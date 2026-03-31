@@ -29,7 +29,6 @@ public class D4_1249_보급로 {
 	
 	public static class Node{
 		int x, y, time;
-		boolean[][] visited;
 		public Node(int x, int y, int time) {
 			this.x = x;
 			this.y = y;

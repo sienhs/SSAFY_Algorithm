@@ -22,15 +22,8 @@ public class G4_4485_보급로백준 {
 				}
 			}
 			
-			
-			
 			System.out.println("Problem " + ++testcase+": "+dijkstra());
-			
 		}
-		
-		
-		
-		
 	}
 	static final int[] dx = {0,0,1,-1};
 	static final int[] dy = {1,-1,0,0};
