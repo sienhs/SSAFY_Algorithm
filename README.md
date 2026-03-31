@@ -20,6 +20,7 @@
  ┃ ┣ 📂 MST
  ┃ ┣ 📂 다익스트라
  ┃ ┣ 📂 플로이드워셜
+ ┃ ┣ 📂 구현
  ┃ ┣ 📂 그리디
  ┃ ┣ 📂 누적합
  ┃ ┣ 📂 문자열_정규표현식
@@ -32,7 +33,8 @@
  ┃ ┣ 📂 큐
  ┃ ┣ 📂 투포인터
  ┃ ┗ 📂 _FAILED
- ┗ 📂 swea
+ ┣ 📂 swea
+ ┗ 📂 SAMSUNG_A
 ```
 
 ---
@@ -189,6 +191,13 @@
 | Gold 4 | [1956 - 운동](https://www.acmicpc.net/problem/1956) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/플로이드워셜/G4_1956.java) |
 | Gold 4 | [2219 - 보안 검사](https://www.acmicpc.net/problem/2219) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/플로이드워셜/G4_2219.java) |
 | Gold 4 | [11404 - 버스](https://www.acmicpc.net/problem/11404) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/플로이드워셜/G4_11404.java) |
+| Silver 1 | [11403 - 경로 찾기](https://www.acmicpc.net/problem/11403) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/플로이드워셜/S1_11403.java) |
+
+#### 구현
+
+| 난이도 | 문제번호 | 풀이 |
+|--------|----------|------|
+| Silver 3 | [1913 - 달팽이](https://www.acmicpc.net/problem/1913) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/구현/S3_1913.java) |
 
 #### 기타
 
@@ -198,6 +207,15 @@
 | Silver 3 | [9996 - 한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/문자열_정규표현식/S3_9996.java) |
 | Silver 4 | [1158 - 요세푸스 문제](https://www.acmicpc.net/problem/1158) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/큐/S4_1158.java) |
 | Bronze 5 | [27433 - 팩토리얼 2](https://www.acmicpc.net/problem/27433) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/수학/B5_27433.java) |
+
+---
+
+### 🔴 SAMSUNG A형 기출
+
+| 플랫폼 | 난이도 | 문제번호 | 풀이 |
+|--------|--------|----------|------|
+| SWEA | D4 | [1249 - 보급로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/SAMSUNG_A/D4_1249_보급로.java) |
+| BOJ | Gold 4 | [4485 - 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/SAMSUNG_A/G4_4485_보급로백준.java) |
 
 ---
 
@@ -226,6 +244,6 @@
 
 | 플랫폼 | 풀이 수 |
 |--------|---------|
-| BOJ    | 60문제  |
-| SWEA   | 14문제  |
-| **합계** | **74문제** |
+| BOJ    | 63문제  |
+| SWEA   | 15문제  |
+| **합계** | **78문제** |
