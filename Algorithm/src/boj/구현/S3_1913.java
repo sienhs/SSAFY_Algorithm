@@ -37,9 +37,7 @@ public class S3_1913 {
 			y = ny;
 			
 		}
-			 
-			
-		
+
 		StringBuilder sb = new StringBuilder();
 		for(int[] arr : board) {
 			for(int i : arr) {
