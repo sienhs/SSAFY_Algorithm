@@ -197,6 +197,7 @@
 
 | 난이도 | 문제번호 | 풀이 |
 |--------|----------|------|
+| Gold 5 | [21608 - 상어 초등학교](https://www.acmicpc.net/problem/21608) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/구현/G5_21608.java) |
 | Silver 3 | [1913 - 달팽이](https://www.acmicpc.net/problem/1913) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/구현/S3_1913.java) |
 
 #### 기타
@@ -215,6 +216,7 @@
 | 플랫폼 | 난이도 | 문제번호 | 풀이 |
 |--------|--------|----------|------|
 | SWEA | D4 | [1249 - 보급로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/SAMSUNG_A/D4_1249_보급로.java) |
+| BOJ | Gold 3 | [16236 - 아기 상어](https://www.acmicpc.net/problem/16236) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/SAMSUNG_A/G3_16236_아기상어.java) |
 | BOJ | Gold 4 | [4485 - 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/SAMSUNG_A/G4_4485_보급로백준.java) |
 
 ---
@@ -244,6 +246,6 @@
 
 | 플랫폼 | 풀이 수 |
 |--------|---------|
-| BOJ    | 63문제  |
+| BOJ    | 65문제  |
 | SWEA   | 15문제  |
-| **합계** | **78문제** |
+| **합계** | **80문제** |
