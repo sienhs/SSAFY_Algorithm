@@ -132,13 +132,19 @@
 | 난이도 | 문제번호 | 풀이 |
 |--------|----------|------|
 | Gold 4 | [3190 - 뱀](https://www.acmicpc.net/problem/3190) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/시뮬/G4_3190.java) |
+| Gold 4 | [20056 - 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/시뮬/G4_20056.java) |
 | Gold 5 | [14891 - 톱니바퀴](https://www.acmicpc.net/problem/14891) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/시뮬/G5_14891.java) |
+| Gold 5 | [21610 - 마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/시뮬/G5_21610.java) |
+| Silver 5 | [1531 - 투명](https://www.acmicpc.net/problem/1531) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/시뮬/S5_1531.java) |
+| Silver 5 | [1817 - 짐 챙기는 숌](https://www.acmicpc.net/problem/1817) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/시뮬/S5_1817.java) |
+| Silver 5 | [3060 - 욕심쟁이 돼지](https://www.acmicpc.net/problem/3060) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/시뮬/S5_3060.java) |
 
 #### 완전탐색
 
 | 난이도 | 문제번호 | 풀이 |
 |--------|----------|------|
 | Gold 1 | [12100 - 2048(Easy)](https://www.acmicpc.net/problem/12100) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/완전탐색/G1_12100.java) |
+| Gold 4 | [9663 - N-Queen](https://www.acmicpc.net/problem/9663) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/완전탐색/G4_9663.java) |
 | Gold 4 | [14500 - 테트로미노](https://www.acmicpc.net/problem/14500) | [풀이](https://github.com/sienhs/SSAFY_Algorithm/blob/main/Algorithm/src/boj/완전탐색/G4_14500_OTHER.java) |
 
 #### 위상정렬
@@ -246,6 +252,6 @@
 
 | 플랫폼 | 풀이 수 |
 |--------|---------|
-| BOJ    | 65문제  |
+| BOJ    | 71문제  |
 | SWEA   | 15문제  |
-| **합계** | **80문제** |
+| **합계** | **86문제** |
