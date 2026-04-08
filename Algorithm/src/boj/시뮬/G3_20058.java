@@ -42,7 +42,7 @@ public class G3_20058 {
 			int l = L.poll();
 			if(l!=0) {
 				newBoard = new int[P][P];
-				int LP = (int)Math.pow(2, l);
+				int LP = (int)Math.pow(2, l); // LP = dvivied grid Size
 				for(int row = 0; row < P;row+=LP) {
 					for(int col = 0; col < P;col+=LP) {
 						
@@ -80,15 +80,11 @@ public class G3_20058 {
 			for(int[] ice : ices) board[ice[0]][ice[1]]--;
 		}
 		
-		
-		
 		int total = 0;
 		for(int[] arr : board) {
 			total += Arrays.stream(arr).sum();
 		}
 		System.out.println(total);
-		
-		
 		
 		for(int i = 0; i < P; i++) {
 			for(int j = 0; j < P;j++) {
@@ -106,14 +102,10 @@ public class G3_20058 {
 	public static void bfs(int[] start) {
 		Queue<int[]> q = new LinkedList<>();
 		
-		
-		
 		q.offer(start);
 		visited[start[0]][start[1]] = true;
 		
-		
 		int width = 1;
-		
 		
 		while(!q.isEmpty()) {
 			int[] cur = q.poll();
